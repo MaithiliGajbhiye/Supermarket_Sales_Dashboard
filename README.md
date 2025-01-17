@@ -33,3 +33,4 @@ Analyzing Data: Each sheet can be analyzed to derive insights into sales perform
 ## DATA STORY :- THE DASHBOARD PRESENTS THE PERFORMANCE OF THE SUPERMARKET'S SALES ACROSS VARIOUS DIMENSIONS SUCH AS PRODUCT CATEGORY AND LOCATION. NAYPYITAW HAS MORE SALES THAN THE OTHER STORES.  FOOD AND BEVERAGES PRODUCT CATEGORY HAS HIGHEST RANGE OF REVENUE.
   
 # Dashboard
+<img src="./Coffee_Sales_Dashboard.png" alt="Coffee_Sales_Dashboard.png"/> &nbsp;
