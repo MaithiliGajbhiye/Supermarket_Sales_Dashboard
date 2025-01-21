@@ -21,7 +21,7 @@ Average of Rating by City: Provides average customer ratings per city.
 
 Raw Data: Contains the unprocessed raw sales data.
 
-DB: This sheet appears to be either empty or contains irrelevant data.
+DB: This sheet shows the dashboard.
 
 ## Data Fields
 Each sheet contains various fields relevant to its category. For example, the "Sales by Product Line" sheet might include fields such as Product Line, Total Sales, and Quantity Sold.
