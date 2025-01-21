@@ -25,6 +25,7 @@ DB: This sheet shows the dashboard.
 
 ## Data Fields
 Each sheet contains various fields relevant to its category.
+
 For example, the "Sales by Product Line" sheet might include fields such as Product Line, Total Sales, and Quantity Sold.
 
 ## Usage Instructions
